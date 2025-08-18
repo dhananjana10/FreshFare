@@ -19,8 +19,8 @@ FreshFare is an all-in-one POS solution that transforms manual retail operations
 
 | Name | Registration Number | Email | Role |
 |------|-------------------|-------|------|
-| **P.A.H.I Gunasekara** | IT23232136 | IT23232136@my.sliit.lk | **Scrum Master** |
-| K.S.H Liyanage | IT23382558 | IT23382558@my.sliit.lk | Full Stack Developer |
+| **Dhananjana Perera** | IT23391468 | dhananjanaperera10@gmail.com | **Full Stack Developer** |
+| Dhananjana Perera | IT23391468 | dhananjanaperera10@gmail.com | Scrum Master |
 | V.S Hettiarachchi | IT23382176 | IT23382176@my.sliit.lk | Backend Developer |
 | R.R.D Pinto | IT23319806 | IT23319806@my.sliit.lk | Frontend Developer |
 | W.M.K Gayantha | IT23317826 | IT23317826@my.sliit.lk | System Analyst |
@@ -112,8 +112,8 @@ Before running the application, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/HeshanInduranga/FRESHFARE-POS.git
-cd FRESHFARE-POS
+git clone https://github.com/dhananjana10/FreshFare.git
+cd FreshFare
 ```
 
 ### 2. Install Backend Dependencies
@@ -412,9 +412,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For support, questions, or suggestions:
 
-- **Email**: IT23232136@my.sliit.lk (Heshan Induranga Gunasekara - Project Lead)
-- **GitHub Issues**: [Create an issue](https://github.com/HeshanInduranga/FRESHFARE-POS/issues)
-- **Project Repository**: [FRESHFARE-POS](https://github.com/HeshanInduranga/FRESHFARE-POS)
+- **Email**: dhananjanaperera10@gmail.com (Dhananjana Perera)
+- **Project Repository**: [FreshFare](https://github.com/dhananjana10/FreshFare)
 
 ## 🔄 Version History
 
